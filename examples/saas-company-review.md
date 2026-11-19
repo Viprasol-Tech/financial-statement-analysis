@@ -64,7 +64,7 @@ because EBIT is still slightly negative.
 
 ## DuPont (FY2024)
 
-ROE = Net margin (−1.7%) × Asset turnover (1.60) × Equity multiplier (3.24)
+ROE = Net margin (−1.7%) × Asset turnover (1.60) × Equity multiplier (3.09)
 = **−8.2%**.
 
 Negative ROE is driven entirely by the **negative net margin** (still

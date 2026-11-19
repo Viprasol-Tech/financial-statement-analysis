@@ -63,10 +63,10 @@ EBITDA FY2024 = EBIT (58) + D&A (115) = **173**.
 
 ## DuPont (FY2024)
 
-ROE = Net margin (0.3%) × Asset turnover (1.34) × Equity multiplier (5.88)
+ROE = Net margin (0.3%) × Asset turnover (1.37) × Equity multiplier (5.26)
 = **2.3%**.
 
-The thin 2.3% ROE is being **propped up by a 5.88× equity multiplier** (heavy
+The thin 2.3% ROE is being **propped up by a 5.26× equity multiplier** (heavy
 leverage). Strip out the leverage and the underlying profitability (0.3% net
 margin, 0.4% ROA) is barely positive — returns are "borrowed", not earned, and
 the leverage that flatters ROE is the same leverage threatening solvency.
